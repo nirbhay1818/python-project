@@ -29,4 +29,4 @@ while i < count:
             print("\nmaximum attempts limit reached")
             print("\nbetter luck next time!!")
             print("the right number is ",num)
-print("\n***Thank You***")
+
